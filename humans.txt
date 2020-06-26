@@ -20,4 +20,5 @@ versions 1.2
     HTML5, CSS3
     jQuery, Modernizr
     java, C++, HTML
+    Jenkins, Docker, Kubernetes
 IT Operationa
