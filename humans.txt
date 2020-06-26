@@ -13,7 +13,8 @@ versions 1.2
 
 # THANKS
 
-    <name>
+    Thank for all who participated
+    Thank you for Development and Testers
 
 # TECHNOLOGY COLOPHON
 
